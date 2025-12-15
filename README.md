@@ -4,7 +4,7 @@ A Flutter mobile application that fetches random images with adaptive background
 
 ## 📱 Demo Video
 
-[Watch Demo Video](./demo-video.mp4)
+[Watch Demo Video](./demo-video.mov)
 
 
 ## ✨ Features
